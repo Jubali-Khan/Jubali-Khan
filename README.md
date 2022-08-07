@@ -12,9 +12,9 @@
 - Habitual learner
 - Teamworker
 - Pragmatic
-- 
 
 ## Background
+- 5+ months frontend development experience at ProSaldo.net GmbH (Vienna, Austria)
 - 1 year of technical mathematics at the TU Wien, where I first started programming. 
 
 ## Tech Stack
