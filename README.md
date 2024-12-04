@@ -1,8 +1,8 @@
-# Howdy, I'm Jubran (@Jubali-Khan) 👋
+# Howdy, I'm Jubran 👋
  and welcome to my GitHub profile
  
 - 👀 I’m interested in problem solving and analytical thinking
-- 🌱 I’m currently working with and learning Vue.js, Jest, SCSS, TypeScript and just good ol' JavaScript :)
+- 🌱 I’m currently working on improving my backend knowledge
 - :brain: I enjoy learning logical and algorithmic thinking
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jubran-naser)
 
@@ -14,7 +14,7 @@
 - Pragmatic
 
 ## Background
-- 5+ months frontend development experience at ProSaldo.net GmbH (Vienna, Austria)
+- 3+ years web development experience
 - 1 year of technical mathematics at the TU Wien, where I first started programming. 
 
 ## Tech Stack
